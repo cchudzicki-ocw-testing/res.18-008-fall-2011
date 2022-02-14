@@ -2,6 +2,22 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types: []
+optional_tab_title: Study Guide
+optional_text: 'Study Guide for Lecture 5: Variations of Parameters
+
+
+  *   Chalkboard Photos, Reading Assignments, and Exercises ([PDF](resources/mitres_18_008_partii_lec05))
+
+  *   Solutions ([PDF - 4.0MB](resources/mitres_18_008_partii_sol05))
+
+
+  To complete the reading assignments, see the Supplementary Notes in the [Study Materials
+  section](pages/study-materials).'
+parent_title: 'Part II: Differential Equations'
+parent_type: SupplementalResourceSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: 'Lecture 5: Variations of Parameters'
 uid: 0cd86c68-1f38-761d-1fe4-cc408d6d636a

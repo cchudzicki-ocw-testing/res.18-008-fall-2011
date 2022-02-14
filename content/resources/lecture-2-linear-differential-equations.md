@@ -2,6 +2,22 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types: []
+optional_tab_title: Study Guide
+optional_text: 'Study Guide for Lecture 2: Linear Differential Equations
+
+
+  *   Chalkboard Photos, Reading Assignments, and Exercises ([PDF](resources/mitres_18_008_partii_lec02))
+
+  *   Solutions ([PDF - 4.0MB](resources/mitres_18_008_partii_sol02))
+
+
+  To complete the reading assignments, see the Supplementary Notes in the [Study Materials
+  section](pages/study-materials).'
+parent_title: 'Part II: Differential Equations'
+parent_type: SupplementalResourceSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: 'Lecture 2: Linear Differential Equations'
 uid: 45d92209-2b1c-dc1f-5b9d-a5b58a4d262c

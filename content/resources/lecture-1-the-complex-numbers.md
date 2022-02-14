@@ -2,6 +2,24 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types: []
+optional_tab_title: Study Guide
+optional_text: 'Study Guide for Lecture 1: The Complex Numbers
+
+
+  *   Chalkboard Photos, Reading Assignments, and Exercises (![This resource may not
+  render correctly in a screen reader.](/images/inacessible.gif)[PDF - 1.8MB](resources/mitres_18_008_parti_lec01))
+
+  *   Solutions (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF
+  - 5.1MB](resources/mitres_18_008_parti_sol01))
+
+
+  To complete the reading assignments, see the Supplementary Notes in the [Study Materials
+  section](pages/study-materials).'
+parent_title: 'Part I: Complex Variables'
+parent_type: SupplementalResourceSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: 'Lecture 1: The Complex Numbers'
 uid: c97137c7-696a-82c3-0bdd-f4bba34c2b6b

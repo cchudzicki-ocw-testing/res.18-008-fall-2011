@@ -2,6 +2,22 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types: []
+optional_tab_title: Study Guide
+optional_text: 'Study Guide for Lecture 4: Undetermined Coefficients
+
+
+  *   Chalkboard Photos, Reading Assignments, and Exercises ([PDF](resources/mitres_18_008_partii_lec04))
+
+  *   Solutions ([PDF - 4.4MB](resources/mitres_18_008_partii_sol04))
+
+
+  To complete the reading assignments, see the Supplementary Notes in the [Study Materials
+  section](pages/study-materials).'
+parent_title: 'Part II: Differential Equations'
+parent_type: SupplementalResourceSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: 'Lecture 4: Undetermined Coefficients'
 uid: 0518e07e-168b-2fd9-7c9a-388b73ccebeb

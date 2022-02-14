@@ -2,6 +2,24 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types: []
+optional_tab_title: Study Guide
+optional_text: 'Study Guide for Lecture 2: Functions of a Complex Variable
+
+
+  *   Chalkboard Photos, Reading Assignments, and Exercises (![This resource may not
+  render correctly in a screen reader.](/images/inacessible.gif)[PDF](resources/mitres_18_008_parti_lec02))
+
+  *   Solutions (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF
+  - 4.7MB](resources/mitres_18_008_parti_sol02))
+
+
+  To complete the reading assignments, see the Supplementary Notes in the [Study Materials
+  section](pages/study-materials).'
+parent_title: 'Part I: Complex Variables'
+parent_type: SupplementalResourceSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: 'Lecture 2: Functions of a Complex Variable'
 uid: a65a3f85-c8b0-6396-1a69-1baa4a9cc837

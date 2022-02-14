@@ -2,6 +2,23 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types: []
+optional_tab_title: Study Guide
+optional_text: 'Study Guide for Lecture 3: Solving the Linear Equations L(y) = 0;
+  Constant Coefficients
+
+
+  *   Chalkboard Photos, Reading Assignments, and Exercises ([PDF](resources/mitres_18_008_partii_lec03))
+
+  *   Solutions ([PDF - 3.2MB](resources/mitres_18_008_partii_sol03))
+
+
+  To complete the reading assignments, see the Supplementary Notes in the [Study Materials
+  section](pages/study-materials).'
+parent_title: 'Part II: Differential Equations'
+parent_type: SupplementalResourceSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: 'Lecture 3: Solving the Linear Equations L(y) = 0; Constant Coefficients'
 uid: 07c92c27-de62-44aa-f4e8-171d0047067c

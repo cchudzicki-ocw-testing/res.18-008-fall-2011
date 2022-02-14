@@ -2,6 +2,22 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types: []
+optional_tab_title: Study Guide
+optional_text: 'Study Guide for Lecture 4: Linear Transformations
+
+
+  *   Chalkboard Photos, Reading Assignments, and Exercises ([PDF](resources/mitres_18_008_partiii_lec04))
+
+  *   Solutions ([PDF - 5.5MB](resources/mitres_18_008_partiii_sol04))
+
+
+  To complete the reading assignments, see the Supplementary Notes in the [Study Materials
+  section](pages/study-materials).'
+parent_title: 'Part III: Linear Algebra'
+parent_type: SupplementalResourceSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: 'Lecture 4: Linear Transformations'
 uid: 6c8a1136-e05b-648d-e0e4-06530c6551d6

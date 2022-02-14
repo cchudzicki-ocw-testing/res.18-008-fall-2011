@@ -2,6 +2,22 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types: []
+optional_tab_title: Study Guide
+optional_text: 'Study Guide for Lecture 2: Spanning Vectors
+
+
+  *   Chalkboard Photos, Reading Assignments, and Exercises ([PDF](resources/mitres_18_008_partiii_lec02))
+
+  *   Solutions ([PDF - 3.3MB](resources/mitres_18_008_partiii_sol02))
+
+
+  To complete the reading assignments, see the Supplementary Notes in the [Study Materials
+  section](pages/study-materials).'
+parent_title: 'Part III: Linear Algebra'
+parent_type: SupplementalResourceSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: 'Lecture 2: Spanning Vectors'
 uid: 185d8433-5662-dabe-8800-9383eedf33b1

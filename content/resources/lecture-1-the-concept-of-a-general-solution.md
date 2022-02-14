@@ -2,6 +2,22 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types: []
+optional_tab_title: Study Guide
+optional_text: 'Study Guide for Lecture 1: The Concept of a General Solution
+
+
+  *   Chalkboard Photos, Reading Assignments, and Exercises ([PDF - 2.3MB](resources/mitres_18_008_partii_lec01))
+
+  *   Solutions ([PDF - 15.3MB](resources/mitres_18_008_partii_sol01))
+
+
+  To complete the reading assignments, see the Supplementary Notes in the [Study Materials
+  section](pages/study-materials).'
+parent_title: 'Part II: Differential Equations'
+parent_type: SupplementalResourceSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: 'Lecture 1: The Concept of a General Solution'
 uid: 2012f369-6eb4-62a0-6b28-c5063a9e5b66

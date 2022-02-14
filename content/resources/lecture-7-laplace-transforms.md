@@ -2,6 +2,22 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types: []
+optional_tab_title: Study Guide
+optional_text: 'Study Guide for Lecture 7: Laplace Transforms
+
+
+  *   Chalkboard Photos, Reading Assignments, and Exercises ([PDF - 1.2MB](resources/mitres_18_008_partii_lec07))
+
+  *   Solutions ([PDF - 8.2MB](resources/mitres_18_008_partii_sol07))
+
+
+  To complete the reading assignments, see the Supplementary Notes in the [Study Materials
+  section](pages/study-materials).'
+parent_title: 'Part II: Differential Equations'
+parent_type: SupplementalResourceSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: 'Lecture 7: Laplace Transforms'
 uid: 5eab46be-eb30-d157-8399-846b6c8cc88d

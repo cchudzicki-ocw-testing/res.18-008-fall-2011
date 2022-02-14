@@ -2,6 +2,24 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types: []
+optional_tab_title: Study Guide
+optional_text: 'Study Guide for Lecture 3: Conformal Mappings
+
+
+  *   Chalkboard Photos, Reading Assignments, and Exercises (![This resource may not
+  render correctly in a screen reader.](/images/inacessible.gif)[PDF](resources/mitres_18_008_parti_lec03))
+
+  *   Solutions (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF
+  - 2.9MB](resources/mitres_18_008_parti_sol03))
+
+
+  To complete the reading assignments, see the Supplementary Notes in the [Study Materials
+  section](pages/study-materials).'
+parent_title: 'Part I: Complex Variables'
+parent_type: SupplementalResourceSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: 'Lecture 3: Conformal Mappings'
 uid: 445d516d-5b17-10af-57d9-953ca1cb90da

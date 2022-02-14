@@ -2,6 +2,22 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types: []
+optional_tab_title: Study Guide
+optional_text: 'Study Guide for Lecture 1: Vector Spaces
+
+
+  *   Chalkboard Photos, Reading Assignments, and Exercises ([PDF - 1.7MB](resources/mitres_18_008_partiii_lec01))
+
+  *   Solutions ([PDF - 4.4MB](resources/mitres_18_008_partiii_sol01))
+
+
+  To complete the reading assignments, see the Supplementary Notes in the [Study Materials
+  section](pages/study-materials).'
+parent_title: 'Part III: Linear Algebra'
+parent_type: SupplementalResourceSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: 'Lecture 1: Vector Spaces'
 uid: b75278a8-1699-d8c3-7c30-382bdb952acb
