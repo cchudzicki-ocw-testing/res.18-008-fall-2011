@@ -4,6 +4,7 @@ description: This resource contains information related to complex numbers.
 file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/res-18-008-calculus-revisited-complex-variables-differential-equations-and-linear-algebra-fall-2011/4feba2db381a6b61a4a9781486cee962_MITRES_18_008_partI_lec01.pdf
 file_type: application/pdf
 learning_resource_types: []
+ocw_type: OCWFile
 parent_title: Study Materials
 parent_type: SupplementalResourceSection
 resourcetype: Document

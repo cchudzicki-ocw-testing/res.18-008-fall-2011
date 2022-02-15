@@ -4,6 +4,7 @@ description: This resource contains solutions related to determinants.
 file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/res-18-008-calculus-revisited-complex-variables-differential-equations-and-linear-algebra-fall-2011/6327e7e565951f5a0eec2475e445a8ad_MITRES_18_008_partIII_sol05.pdf
 file_type: application/pdf
 learning_resource_types: []
+ocw_type: OCWFile
 parent_title: Study Materials
 parent_type: SupplementalResourceSection
 resourcetype: Document

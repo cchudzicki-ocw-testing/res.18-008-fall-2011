@@ -4,6 +4,7 @@ description: This resource contains solutions related to orthogonal functions.
 file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/res-18-008-calculus-revisited-complex-variables-differential-equations-and-linear-algebra-fall-2011/c3c5364d0545b8de4a46756372b978ba_MITRES_18_008_partIII_sol08.pdf
 file_type: application/pdf
 learning_resource_types: []
+ocw_type: OCWFile
 parent_title: Study Materials
 parent_type: SupplementalResourceSection
 resourcetype: Document

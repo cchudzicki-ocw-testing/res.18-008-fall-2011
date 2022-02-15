@@ -4,6 +4,7 @@ description: This resource contains information related to undetermined coeffici
 file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/res-18-008-calculus-revisited-complex-variables-differential-equations-and-linear-algebra-fall-2011/29f368dfb00b1b8f3ceb1971f401bb82_MITRES_18_008_partII_lec04.pdf
 file_type: application/pdf
 learning_resource_types: []
+ocw_type: OCWFile
 parent_title: Study Materials
 parent_type: SupplementalResourceSection
 resourcetype: Document

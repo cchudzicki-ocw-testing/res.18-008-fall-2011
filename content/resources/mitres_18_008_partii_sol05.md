@@ -4,6 +4,7 @@ description: This resource contains solutions related to variations to parameter
 file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/res-18-008-calculus-revisited-complex-variables-differential-equations-and-linear-algebra-fall-2011/0a094d385e28de3e7f91f1451bc09f78_MITRES_18_008_partII_sol05.pdf
 file_type: application/pdf
 learning_resource_types: []
+ocw_type: OCWFile
 parent_title: Study Materials
 parent_type: SupplementalResourceSection
 resourcetype: Document

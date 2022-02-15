@@ -4,6 +4,7 @@ description: This resource contains information related to linear transformation
 file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/res-18-008-calculus-revisited-complex-variables-differential-equations-and-linear-algebra-fall-2011/75f04fe0add53a104052d2aa4212a5f3_MITRES_18_008_partIII_lec04.pdf
 file_type: application/pdf
 learning_resource_types: []
+ocw_type: OCWFile
 parent_title: Study Materials
 parent_type: SupplementalResourceSection
 resourcetype: Document
