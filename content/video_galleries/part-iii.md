@@ -3,7 +3,6 @@ content_type: video_gallery
 is_media_gallery: true
 learning_resource_types: []
 title: 'Part III: Linear Algebra'
-type: SupplementalResourceSection
 uid: abcdd1e0-616d-8fc9-a420-15acb3bc4626
 videos:
   content:

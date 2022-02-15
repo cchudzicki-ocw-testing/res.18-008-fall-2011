@@ -3,7 +3,6 @@ content_type: video_gallery
 is_media_gallery: true
 learning_resource_types: []
 title: 'Part I: Complex Variables'
-type: SupplementalResourceSection
 uid: 6731877a-9202-7d92-b4ab-de60926c637c
 videos:
   content:

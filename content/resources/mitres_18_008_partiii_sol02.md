@@ -8,6 +8,5 @@ parent_title: Study Materials
 parent_type: SupplementalResourceSection
 resourcetype: Document
 title: MITRES_18_008_partIII_sol02.pdf
-type: OCWFile
 uid: 665fa77e-1caa-a516-38f1-a0970bbddb27
 ---
