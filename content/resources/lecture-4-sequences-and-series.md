@@ -9,14 +9,14 @@ optional_text: 'Study Guide for Lecture 4: Sequences and Series
 
 
   *   Chalkboard Photos, Reading Assignments, and Exercises (![This resource may not
-  render correctly in a screen reader.](/images/inacessible.gif)[PDF](resources/mitres_18_008_parti_lec04))
+  render correctly in a screen reader.](/images/inacessible.gif)[PDF](/courses/res-18-008-calculus-revisited-complex-variables-differential-equations-and-linear-algebra-fall-2011/resources/mitres_18_008_parti_lec04))
 
   *   Solutions (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF
-  - 2.8MB](resources/mitres_18_008_parti_sol04))
+  - 2.8MB](/courses/res-18-008-calculus-revisited-complex-variables-differential-equations-and-linear-algebra-fall-2011/resources/mitres_18_008_parti_sol04))
 
 
   To complete the reading assignments, see the Supplementary Notes in the [Study Materials
-  section](pages/study-materials).'
+  section](/courses/res-18-008-calculus-revisited-complex-variables-differential-equations-and-linear-algebra-fall-2011/pages/study-materials).'
 parent_title: 'Part I: Complex Variables'
 parent_type: SupplementalResourceSection
 related_resources_text: ''

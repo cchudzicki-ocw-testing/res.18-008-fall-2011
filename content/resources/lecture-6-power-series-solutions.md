@@ -8,13 +8,13 @@ optional_tab_title: Study Guide
 optional_text: 'Study Guide for Lecture 6: Power Series Solutions
 
 
-  *   Chalkboard Photos, Reading Assignments, and Exercises ([PDF - 1.7MB](resources/mitres_18_008_partii_lec06))
+  *   Chalkboard Photos, Reading Assignments, and Exercises ([PDF - 1.7MB](/courses/res-18-008-calculus-revisited-complex-variables-differential-equations-and-linear-algebra-fall-2011/resources/mitres_18_008_partii_lec06))
 
-  *   Solutions ([PDF - 3.7MB](resources/mitres_18_008_partii_sol06))
+  *   Solutions ([PDF - 3.7MB](/courses/res-18-008-calculus-revisited-complex-variables-differential-equations-and-linear-algebra-fall-2011/resources/mitres_18_008_partii_sol06))
 
 
   To complete the reading assignments, see the Supplementary Notes in the [Study Materials
-  section](pages/study-materials).'
+  section](/courses/res-18-008-calculus-revisited-complex-variables-differential-equations-and-linear-algebra-fall-2011/pages/study-materials).'
 parent_title: 'Part II: Differential Equations'
 parent_type: SupplementalResourceSection
 related_resources_text: ''

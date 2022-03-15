@@ -8,13 +8,13 @@ optional_tab_title: Study Guide
 optional_text: 'Study Guide for Lecture 1: Vector Spaces
 
 
-  *   Chalkboard Photos, Reading Assignments, and Exercises ([PDF - 1.7MB](resources/mitres_18_008_partiii_lec01))
+  *   Chalkboard Photos, Reading Assignments, and Exercises ([PDF - 1.7MB](/courses/res-18-008-calculus-revisited-complex-variables-differential-equations-and-linear-algebra-fall-2011/resources/mitres_18_008_partiii_lec01))
 
-  *   Solutions ([PDF - 4.4MB](resources/mitres_18_008_partiii_sol01))
+  *   Solutions ([PDF - 4.4MB](/courses/res-18-008-calculus-revisited-complex-variables-differential-equations-and-linear-algebra-fall-2011/resources/mitres_18_008_partiii_sol01))
 
 
   To complete the reading assignments, see the Supplementary Notes in the [Study Materials
-  section](pages/study-materials).'
+  section](/courses/res-18-008-calculus-revisited-complex-variables-differential-equations-and-linear-algebra-fall-2011/pages/study-materials).'
 parent_title: 'Part III: Linear Algebra'
 parent_type: SupplementalResourceSection
 related_resources_text: ''
