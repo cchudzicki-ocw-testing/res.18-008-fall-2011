@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types: []
 ocw_type: ''
@@ -8,11 +9,9 @@ optional_tab_title: Study Guide
 optional_text: 'Study Guide for Lecture 5: Integrating Complex Functions
 
 
-  *   Chalkboard Photos, Reading Assignments, and Exercises (![This resource may not
-  render correctly in a screen reader.](/images/inacessible.gif)[PDF](/courses/res-18-008-calculus-revisited-complex-variables-differential-equations-and-linear-algebra-fall-2011/resources/mitres_18_008_parti_lec05))
+  *   Chalkboard Photos, Reading Assignments, and Exercises ([PDF](/courses/res-18-008-calculus-revisited-complex-variables-differential-equations-and-linear-algebra-fall-2011/resources/mitres_18_008_parti_lec05))
 
-  *   Solutions (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF
-  - 5.5MB](/courses/res-18-008-calculus-revisited-complex-variables-differential-equations-and-linear-algebra-fall-2011/resources/mitres_18_008_parti_sol05))
+  *   Solutions ([PDF - 5.5MB](/courses/res-18-008-calculus-revisited-complex-variables-differential-equations-and-linear-algebra-fall-2011/resources/mitres_18_008_parti_sol05))
 
 
   To complete the reading assignments, see the Supplementary Notes in the [Study Materials
@@ -22,6 +21,7 @@ parent_type: SupplementalResourceSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lecture 5: Integrating Complex Functions'
 uid: 801a7d97-31c9-7ffb-d12a-5162497fd7d1
 video_files:

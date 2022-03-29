@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types: []
 ocw_type: ''
@@ -8,11 +9,9 @@ optional_tab_title: Study Guide
 optional_text: 'Study Guide for Lecture 3: Conformal Mappings
 
 
-  *   Chalkboard Photos, Reading Assignments, and Exercises (![This resource may not
-  render correctly in a screen reader.](/images/inacessible.gif)[PDF](/courses/res-18-008-calculus-revisited-complex-variables-differential-equations-and-linear-algebra-fall-2011/resources/mitres_18_008_parti_lec03))
+  *   Chalkboard Photos, Reading Assignments, and Exercises ([PDF](/courses/res-18-008-calculus-revisited-complex-variables-differential-equations-and-linear-algebra-fall-2011/resources/mitres_18_008_parti_lec03))
 
-  *   Solutions (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF
-  - 2.9MB](/courses/res-18-008-calculus-revisited-complex-variables-differential-equations-and-linear-algebra-fall-2011/resources/mitres_18_008_parti_sol03))
+  *   Solutions ([PDF - 2.9MB](/courses/res-18-008-calculus-revisited-complex-variables-differential-equations-and-linear-algebra-fall-2011/resources/mitres_18_008_parti_sol03))
 
 
   To complete the reading assignments, see the Supplementary Notes in the [Study Materials
@@ -22,6 +21,7 @@ parent_type: SupplementalResourceSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lecture 3: Conformal Mappings'
 uid: 445d516d-5b17-10af-57d9-953ca1cb90da
 video_files:

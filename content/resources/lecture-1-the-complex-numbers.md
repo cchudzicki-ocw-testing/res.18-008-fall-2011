@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types: []
 ocw_type: ''
@@ -8,11 +9,9 @@ optional_tab_title: Study Guide
 optional_text: 'Study Guide for Lecture 1: The Complex Numbers
 
 
-  *   Chalkboard Photos, Reading Assignments, and Exercises (![This resource may not
-  render correctly in a screen reader.](/images/inacessible.gif)[PDF - 1.8MB](/courses/res-18-008-calculus-revisited-complex-variables-differential-equations-and-linear-algebra-fall-2011/resources/mitres_18_008_parti_lec01))
+  *   Chalkboard Photos, Reading Assignments, and Exercises ([PDF - 1.8MB](/courses/res-18-008-calculus-revisited-complex-variables-differential-equations-and-linear-algebra-fall-2011/resources/mitres_18_008_parti_lec01))
 
-  *   Solutions (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF
-  - 5.1MB](/courses/res-18-008-calculus-revisited-complex-variables-differential-equations-and-linear-algebra-fall-2011/resources/mitres_18_008_parti_sol01))
+  *   Solutions ([PDF - 5.1MB](/courses/res-18-008-calculus-revisited-complex-variables-differential-equations-and-linear-algebra-fall-2011/resources/mitres_18_008_parti_sol01))
 
 
   To complete the reading assignments, see the Supplementary Notes in the [Study Materials
@@ -22,6 +21,7 @@ parent_type: SupplementalResourceSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lecture 1: The Complex Numbers'
 uid: c97137c7-696a-82c3-0bdd-f4bba34c2b6b
 video_files:

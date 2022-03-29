@@ -46,10 +46,10 @@ SOLUTIONS
 The Complex Numbers
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif){{% resource_link 4feba2db-381a-6b61-a4a9-781486cee962 "PDF - 1.8MB" %}})
+({{% resource_link 4feba2db-381a-6b61-a4a9-781486cee962 "PDF - 1.8MB" %}})
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif){{% resource_link 2b20b220-fc8d-5ab5-7aea-9eceba64e62d "PDF - 5.1MB" %}})
+({{% resource_link 2b20b220-fc8d-5ab5-7aea-9eceba64e62d "PDF - 5.1MB" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -61,10 +61,10 @@ The Complex Numbers
 Functions of a Complex Variable
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif){{% resource_link 9a6d8cd4-da1e-1b5e-7ab2-d423a7740dc9 "PDF" %}})
+({{% resource_link 9a6d8cd4-da1e-1b5e-7ab2-d423a7740dc9 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif){{% resource_link f6dcf15f-a48f-fd1b-fbf6-8347b09356a8 "PDF - 4.7MB" %}})
+({{% resource_link f6dcf15f-a48f-fd1b-fbf6-8347b09356a8 "PDF - 4.7MB" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -76,10 +76,10 @@ Functions of a Complex Variable
 Conformal Mappings
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif){{% resource_link d9759725-75c9-4df9-2738-99b4db1328f5 "PDF" %}})
+({{% resource_link d9759725-75c9-4df9-2738-99b4db1328f5 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif){{% resource_link 2755d4ef-9d25-f45e-6371-d05a9baed6f5 "PDF - 2.9MB" %}})
+({{% resource_link 2755d4ef-9d25-f45e-6371-d05a9baed6f5 "PDF - 2.9MB" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -91,10 +91,10 @@ Conformal Mappings
 Sequences and Series
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif){{% resource_link f4ef8eb3-f551-1c20-2b97-915b4487bd15 "PDF" %}})
+({{% resource_link f4ef8eb3-f551-1c20-2b97-915b4487bd15 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif){{% resource_link eaf06b49-a99f-eb48-9097-42d35a61e82a "PDF - 2.8MB" %}})
+({{% resource_link eaf06b49-a99f-eb48-9097-42d35a61e82a "PDF - 2.8MB" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -106,10 +106,10 @@ Sequences and Series
 Integrating Complex Functions
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif){{% resource_link 556f9c08-1ab2-aa86-34db-9db66c37246c "PDF" %}})
+({{% resource_link 556f9c08-1ab2-aa86-34db-9db66c37246c "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif){{% resource_link ef08f726-ac3a-2f08-5fa2-f53f7226ff70 "PDF - 5.5MB" %}})
+({{% resource_link ef08f726-ac3a-2f08-5fa2-f53f7226ff70 "PDF - 5.5MB" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
