@@ -36,3 +36,4 @@ video_metadata:
 **Track Description:** Herb Gross defines and illustrates the Fourier representation of a piecewise continuous function.
 
 **Instructor/speaker:** Prof. Herbert Gross
+

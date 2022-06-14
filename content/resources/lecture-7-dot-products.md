@@ -36,3 +36,4 @@ video_metadata:
 **Track Description:** Herb Gross axiomatically defines the dot product as the map of ordered pairs of vectors into the real numbers. Using this definition, Herb next defines and shows how and why to find an orthonormal basis.
 
 **Instructor/speaker:** Prof. Herbert Gross
+

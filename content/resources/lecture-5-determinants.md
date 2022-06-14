@@ -36,3 +36,4 @@ video_metadata:
 **Track Description:** Herb Gross examines the determinant in the framework of vector spaces. He shows us how the value of a particular determinant tells us whether a given set of vectors is a basis of a given vector space with a known basis.
 
 **Instructor/speaker:** Prof. Herbert Gross
+

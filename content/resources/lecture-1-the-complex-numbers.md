@@ -36,3 +36,4 @@ video_metadata:
 **Track Description:** Herb Gross explains the need to define complex numbers. He defines the structure of the system of complex numbers including addition, subtraction, multiplication, division, powers and roots and shows that the system is closed under all these operations.
 
 **Instructor/speaker:** Prof. Herbert Gross
+

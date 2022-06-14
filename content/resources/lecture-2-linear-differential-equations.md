@@ -36,3 +36,4 @@ video_metadata:
 **Track Description:** Herb Gross defines and illustrates linear differential equations of order 2. Herb also shows how to find solutions of this type of equation.
 
 **Instructor/speaker:** Prof. Herbert Gross
+

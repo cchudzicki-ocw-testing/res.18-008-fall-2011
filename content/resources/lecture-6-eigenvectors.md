@@ -36,3 +36,4 @@ video_metadata:
 **Track Description:** Herb Gross defines an eigenvector of a linear map ƒ as a vector _x_ that is mapped into a constant multiple, _c_, of itself. The value of _c_ is called the eigenvalue (or characteristic) for the corresponding vector _x_.
 
 **Instructor/speaker:** Prof. Herbert Gross
+

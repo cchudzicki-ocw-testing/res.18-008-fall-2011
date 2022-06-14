@@ -36,3 +36,4 @@ video_metadata:
 **Track Description:** Herb Gross describes spanning vectors: Vectors whose linear combinations generate a vector space. Herb also defines linear dependence and the dimension of a vector space.
 
 **Instructor/speaker:** Prof. Herbert Gross
+

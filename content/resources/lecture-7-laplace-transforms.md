@@ -36,3 +36,4 @@ video_metadata:
 **Track Description:** Herb Gross describes and justifies the use of Laplace Transforms as a method of solving linear differential equations with given initial conditions.
 
 **Instructor/speaker:** Prof. Herbert Gross
+

@@ -36,3 +36,4 @@ video_metadata:
 **Track Description:** Herb Gross generalizes the definition of the integral of a real-valued function of a real variable to the integral of a complex-valued function of a complex variable and examines the ramifications of this generalization.
 
 **Instructor/speaker:** Prof. Herbert Gross
+

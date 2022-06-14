@@ -36,3 +36,4 @@ video_metadata:
 **Track Description:** Herb Gross describes and illustrates the axiomatic definition of a vector space and discusses subspaces.
 
 **Instructor/speaker:** Prof. Herbert Gross
+

@@ -36,3 +36,4 @@ video_metadata:
 **Track Description:** Herb Gross discusses functions of a complex variable, limits, derivatives and the Cauchy-Riemann conditions. Functions of a complex variable that are differentiable everywhere are called analytic functions.
 
 **Instructor/speaker:** Prof. Herbert Gross
+

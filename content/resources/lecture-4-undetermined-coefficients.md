@@ -36,3 +36,4 @@ video_metadata:
 **Track Description:** Herb Gross shows how to find particular (and general) solutions of second order linear differential equations with constant coefficients using the method of undetermined coefficients.
 
 **Instructor/speaker:** Prof. Herbert Gross
+

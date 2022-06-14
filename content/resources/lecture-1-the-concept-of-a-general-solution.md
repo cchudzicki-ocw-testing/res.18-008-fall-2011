@@ -36,3 +36,4 @@ video_metadata:
 **Track Description:** Herb Gross defines and illustrates the different types of solutions of a differential equation: General solutions, particular solutions, and singular solutions.
 
 **Instructor/speaker:** Prof. Herbert Gross
+

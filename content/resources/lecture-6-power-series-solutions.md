@@ -36,3 +36,4 @@ video_metadata:
 **Track Description:** Herb Gross show how to find the general solution of a linear, homogeneous differential equation of order 2 when the coefficients are analytic functions.
 
 **Instructor/speaker:** Prof. Herbert Gross
+

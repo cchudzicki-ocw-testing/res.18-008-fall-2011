@@ -36,3 +36,4 @@ video_metadata:
 **Track Description:** Herb Gross defines Linear Transformations from vector space _V_ into vector space _W_. He also defines and gives examples of the null space of such a map and illustrates the matrix representation of a linear transformation relative to a given basis.
 
 **Instructor/speaker:** Prof. Herbert Gross
+

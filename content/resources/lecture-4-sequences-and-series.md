@@ -36,3 +36,4 @@ video_metadata:
 **Track Description:** Herb Gross defines complex valued functions by means of power series expansions. He shows us how the amazing identity of DeMoivre is derived.
 
 **Instructor/speaker:** Prof. Herbert Gross
+
