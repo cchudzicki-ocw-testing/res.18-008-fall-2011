@@ -1,5 +1,7 @@
 ---
 content_type: video_gallery
+description: This page includes eight video lectures and links to associated lecture
+  notes.
 draft: false
 is_media_gallery: true
 learning_resource_types: []
