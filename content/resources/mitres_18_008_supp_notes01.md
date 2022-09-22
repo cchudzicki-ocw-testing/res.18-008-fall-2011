@@ -4,6 +4,7 @@ description: This resource contains information related to invented number syste
 file: /courses/res-18-008-calculus-revisited-complex-variables-differential-equations-and-linear-algebra-fall-2011/cac5e2f0c75183a5906790c22e94dff3_MITRES_18_008_supp_notes01.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Study Materials
 parent_type: SupplementalResourceSection
